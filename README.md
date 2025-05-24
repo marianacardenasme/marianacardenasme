@@ -1,6 +1,6 @@
-## Hi there! My name is Mariana Cárdenas
+# Hi there! My name is Mariana Cárdenas
 
-# I am an electronics engineer with experience in software development.
+## I am an electronics engineer with experience in software development.
 
 🤖I specialize in key technologies such as Python, JavaScript, and React. 
 
@@ -8,9 +8,9 @@
 
 💡My focus is on combining technical skills with innovative thinking to design and implement efficient and scalable systems that drive digital transformation.
 
-# My work 🧩
+## My work 🧩
 Here's a link to [my repositories](https://github.com/marianacardenasme?tab=repositories)
 
-# Connect with me 🤝
+## Connect with me 🤝
 You can find me on [linkedin](www.linkedin.com/in/mariana-cárdenas-mesa-6b1101236)
 And this is my email 
