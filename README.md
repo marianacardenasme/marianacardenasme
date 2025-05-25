@@ -14,4 +14,4 @@ Here's a link to [my repositories](https://github.com/marianacardenasme?tab=repo
 ## Connect with me 🤝
 You can find me on [linkedin](www.linkedin.com/in/mariana-cárdenas-mesa-6b1101236)
 
-Or you can [email me](mailto:marianacardenasme@gmail.com)
+Or send me an email: marianacardenasme@gmail.com
