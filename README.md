@@ -2,11 +2,11 @@
 
 ## I am an electronics engineer with experience in software development.
 
-🤖I specialize in key technologies such as Python, JavaScript, and React. 
+🤖I am an Electronics Engineer with experience in software development, mainly using Python, JavaScript, and React. I have worked on cloud-based solutions with AWS, Google Cloud, and SAP Cloud for Customer.
 
-👾I have worked implementing robust cloud solutions using AWS, Google Cloud, and SAP Cloud for Customer. 
+👾My current focus is on combining my knowledge in Artificial Intelligence with my programming background to develop innovative projects that optimize processes, enhance user experiences, and drive business value.
 
-💡My focus is on combining technical skills with innovative thinking to design and implement efficient and scalable systems that drive digital transformation.
+💡I am passionate about learning new technologies, adapting to dynamic environments, and contributing scalable solutions on a global level.
 
 ## My work 🧩
 Here's a link to [my repositories](https://github.com/marianacardenasme?tab=repositories)
